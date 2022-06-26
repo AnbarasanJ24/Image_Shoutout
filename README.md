@@ -13,4 +13,6 @@ Sanity (CRM)
 
 Login Page 
 
-![image](https://user-images.githubusercontent.com/46339443/175811302-e27d96ad-6581-4df3-8874-9dc7a700c7f0.png)
+![image](https://user-images.githubusercontent.com/46339443/175811330-750be92e-5b88-4152-b5fa-3dd4aaea1055.png)
+
+
